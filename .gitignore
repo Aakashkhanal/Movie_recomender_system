@@ -5,6 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
+tmdb_5000_credits.csv
+tmdb_5000_movies.csv
+tmdb-movie.zip
 
 # Distribution / packaging
 .Python
