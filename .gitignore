@@ -8,7 +8,8 @@ __pycache__/
 tmdb_5000_credits.csv
 tmdb_5000_movies.csv
 tmdb-movie.zip
-
+movies.pkl
+similarity.pkl
 # Distribution / packaging
 .Python
 build/
